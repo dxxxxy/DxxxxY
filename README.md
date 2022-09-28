@@ -1,11 +1,20 @@
 <a href="https://dreamys.studio/"><img src="website.gif" alt="Gif loading..."></a>
 
-<img width="50%" height="25px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dxxxxy&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
-<img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dxxxxy&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10">
-<img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dxxxxy&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dxxxxy&theme=midnight-purple&hide_border=true">
+<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
+<img width="50%" align="right" src="https://activity-graph.herokuapp.com/graph?username=DxxxxY&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true">
+
+## About Me
+- 18\.
+- self taught full-stack developer.
+- currently studying computer science in college.
+- name is meant to be obfuscated version of dreamy.
+- https://dreamys.studio/ (dreamy's studio).
+
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DxxxxY&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white">
+
 
 ## Languages
 ![](https://img.shields.io/badge/Java_8-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
@@ -39,26 +48,3 @@
 ![](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-<!-- <img alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=flat&logo=python&logoColor=white" /> <img alt="YARA" align="center" src="https://img.shields.io/badge/-YARA-001fe6?style=flat&logo=virustotal&logoColor=white" /> <img alt="GitHub" align="center" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" /> <img alt="JSON" align="center" src="https://img.shields.io/badge/-JSON-03ad64?style=flat&logo=json&logoColor=white" /> <img alt="Ubuntu" align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /> <img alt="Kotlin" align="center" src="https://img.shields.io/badge/Kotlin-9d31eb?style=flat&logo=kotlin&logoColor=white" /> <img alt="Debian" align="center" src="https://img.shields.io/badge/Debian-d70a53?style=flat&logo=debian&logoColor=white" /> -->
-
-<!-- <div align="center">
-
-## Hi, im dxxxxy!
-
-
-## Stats
-
-</div>
-
-<div style="display: flex; justify-content: space-evenly">
-
-![](https://github-readme-stats.vercel.app/api?username=dxxxxy&show_icons=true&theme=rose_pine )
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dxxxxy&layout=compact&theme=rose_pine )
-
-</div>
- -->
-
-
-
