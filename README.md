@@ -12,6 +12,7 @@
 - currently studying computer science in college.
 - name is meant to be obfuscated version of dreamy.
 - https://dreamys.studio/ (dreamy's studio).
+- [_@dreamys.studio](mailto:_@dreamys.studio).
 - dxxxxy#0776, no other socials.
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=DxxxxY&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitor Badge">
