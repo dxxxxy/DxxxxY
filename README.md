@@ -12,8 +12,8 @@
 - currently studying computer science in college.
 - name is meant to be obfuscated version of dreamy.
 - https://dreamys.studio/ (dreamy's studio).
-- [_@dreamys.studio](mailto:_@dreamys.studio).
 - dxxxxy#0776, no other socials.
+- [_@dreamys.studio](mailto:_@dreamys.studio).
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=DxxxxY&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitor Badge">
 
@@ -58,9 +58,13 @@
 
 ## Runtimes
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
+![](https://img.shields.io/badge/JVM-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 
 ## Services
+![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
+
+## Cloud
 ![](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
